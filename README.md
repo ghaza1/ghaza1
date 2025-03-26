@@ -1,36 +1,39 @@
 <br>
 <p align="center">
-	<a><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&reversal=false&animation=blink&fontColor=ffffff" alt="Welcome Animation"/></a>
+	<a><img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlignY=40&fontSize=50&fontColor=ffffff" alt="Welcome Animation"/></a>
 </p>
 <br>
 
-
 <p align="center">
-	<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hi+👋+I'm+Ahmed;Cybersecurity+Student+🎓;Love+to+learn+new+things;" alt="Typing SVG" /></a>
+	<a><img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hello+There!+👋;I'm+Ahmed+Ghazal;Cybersecurity+Student+🛡️;Always+Learning+New+Things!" alt="Typing SVG" /></a>
 </p>
 
-<hr>
+---
 
-- 🌱 I’m currently learning **SANS SEC 401**
+## 🚀 About Me
 
-- 📫 How to reach me **ahmedxghazal@gmail.com**
+- 🎓 **Cybersecurity Enthusiast**
+- 🌱 Currently diving into **SANS SEC 401**
+- 🎯 Passionate about **ethical hacking, risk management, and secure coding**
+- 📧 Reach me at **ahmedxghazal@gmail.com**
+- 🏆 Competitive Programmer | Problem Solver
 
-<hr>
+---
 
-<h3 align="center">Connect with me:</h3>
+## 🌍 Connect with Me
 
 <p align="center">
 	<a href="https://codeforces.com/profile/-_shady_-" target="_blank">
-		<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=plastic&logo=codeforces&logoColor=ffffff&labelColor=black&color=d9bc00" alt="Codeforces Profile"/>
+		<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
 	</a>
 	<a href="https://www.linkedin.com/in/ahmedghaza1" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=ffffff&labelColor=black" alt="LinkedIn Profile"/>
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 	</a>
 </p>
 
-<br><hr><br>
+---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Skills & Tools
 
 <table align="center">
 	<tr>
@@ -39,7 +42,7 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=cpp,html,css,js,dart&perline=3" alt="Languages"/>
+					<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,dart&perline=3" alt="Languages"/>
 				</a>
 			</p>
 		</td>
@@ -48,34 +51,33 @@
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=git,github,vscode,discord,notion,androidstudio&perline=3" alt="Tools"/>
+					<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,notion,androidstudio&perline=3" alt="Tools"/>
 				</a>
 			</p>
 		</td>
 		<td valign="top" width="33%">
-			<h3 align="center">Libraries & Frameworks</h3>
+			<h3 align="center">Frameworks & Libraries</h3>
 			<br>
 			<p align="center"> 
 				<a href="https://skillicons.dev">
-					<img src="https://skillicons.dev/icons?i=flutter&perline=3" alt="Libraries & Frameworks"/>
+					<img src="https://skillicons.dev/icons?i=flutter,nodejs,express&perline=3" alt="Libraries & Frameworks"/>
 				</a>
 			</p>
 		</td>
 	</tr>
 </table>  
 
-<br><hr><br>
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=shadyamr504&theme=transparent&show_icons=true&hide_border=true" alt="Shady's GitHub Stats" height="240px"/>
-</p>
-<br><hr><br>
-<p align="center">
-	<a>
-		<img src="https://streak-stats.demolab.com?user=shadyamr504&theme=transparent&hide_border=true" alt="GitHub Streak" />
-	</a>
+	<img src="https://github-readme-stats.vercel.app/api?username=shadyamr504&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="200px"/>
+	<img src="https://streak-stats.demolab.com?user=shadyamr504&theme=radical&hide_border=true" alt="GitHub Streak" height="200px"/>
 </p>
 
+---
+
 <p align="center">
-	<a><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&animation=twinkling&section=footer" alt="Footer" /></a>
+	<a><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" alt="Footer" /></a>
 </p>

@@ -86,11 +86,9 @@
 ## 📂 Featured Projects  
 
 🔹 **[Secure Login/Register System using 2FA](https://github.com/ghaza1/secure-login-register-system)** - Implementing essential security features to protect the application and its users.
-🔹 **[Car Inventory System](https://github.com/ghaza1/Car-Rental-System-Web-Application)** - Secure PHP & MySQL web app for managing car inventories  
----
-🔹 **[Python RESTful API for security](https://github.com/ghaza1/security-api)** - RESTful API for security analysis  
-🔹 **[Password Cracking Simulator](https://github.com/ghaza1/Password-Cracking-Simulator)** - A Python tool to demonstrate dictionary & brute-force attacks
-
+🔹 **[Car Inventory System](https://github.com/ghaza1/Car-Rental-System-Web-Application)** - Secure PHP & MySQL web app for managing car inventories.
+🔹 **[Python RESTful API for security](https://github.com/ghaza1/security-api)** - RESTful API for security analysis.
+🔹 **[Password Cracking Simulator](https://github.com/ghaza1/Password-Cracking-Simulator)** - A Python tool to demonstrate dictionary & brute-force attacks.
 
 ---
 

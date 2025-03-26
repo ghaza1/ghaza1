@@ -22,7 +22,7 @@
 - 🔥 Exploring **SANS SEC 401** - Deep dive into cyber defense  
 - 🎯 Skilled in **penetration testing, risk management, and secure coding**  
 - 🎮 **Competitive Programmer** on **Codeforces** & **LeetCode**  
-- 💌 Reach me at: **ahmedxghazal@gmail.com**  
+- 💌 Reach me at: **aghazal085@gmail.com**  
 
 ---
 
@@ -31,9 +31,6 @@
 <p align="center">
 	<a href="https://tryhackme.com/p/ghaza1" target="_blank">
 		<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
-	</a>
-	<a href="https://codeforces.com/profile/-_shady_-" target="_blank">
-		<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile"/>
 	</a>
 	<a href="https://www.linkedin.com/in/ahmedghaza1" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -88,9 +85,11 @@
 
 ## 📂 Featured Projects  
 
-🔹 **[Virtual Pet Simulator](https://github.com/ghaza1/virtual-pet-sim)** - A fun pet simulation game for my **Software Engineering Course**  
-🔹 **[Car Inventory System](https://github.com/ghaza1/car-inventory)** - Secure PHP & MySQL web app for managing car inventories  
-🔹 **[Python Security API](https://github.com/ghaza1/security-api)** - RESTful API for security analysis  
+🔹 **[Secure Login/Register System using 2FA](https://github.com/ghaza1/secure-login-register-system)** - Implementing essential security features to protect the application and its users.
+🔹 **[Car Inventory System](https://github.com/ghaza1/Car-Rental-System-Web-Application)** - Secure PHP & MySQL web app for managing car inventories  
+🔹 **[Python RESTful API for security](https://github.com/ghaza1/security-api)** - RESTful API for security analysis  
+🔹 **[Password Cracking Simulator](https://github.com/ghaza1/Password-Cracking-Simulator)** - A Python tool to demonstrate dictionary & brute-force attacks
+
 
 ---
 

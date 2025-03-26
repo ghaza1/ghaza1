@@ -72,8 +72,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=shadyamr504&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="200px"/>
-	<img src="https://streak-stats.demolab.com?user=shadyamr504&theme=radical&hide_border=true" alt="GitHub Streak" height="200px"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=ghaza1&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" height="200px"/>
+	<img src="https://streak-stats.demolab.com?user=ghaza1&theme=radical&hide_border=true" alt="GitHub Streak" height="200px"/>
 </p>
 
 ---

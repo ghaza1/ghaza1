@@ -6,11 +6,13 @@
 </p>
 <p align="center">
 <a>
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=400&height=50&lines=This+is+your+SVG!;Hello+There!+👋;I'm+Ahmed+Ghazal;Cybersecurity+Student+🛡️;Always+Learning+New+Things!" alt="My Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=400&height=50&lines=Hello+There!+👋;I'm+Ahmed+Ghazal;Cybersecurity+Student+🛡️;Always+Learning+New+Things!" alt="My Typing SVG"/>
 </a>
-
-
 </p>
+
+<a>
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=400&height=50&lines=This+is+your+SVG!;Customize+me!;Add+your+own+text!" alt="My Typing SVG"/>
+</a>
 
 ---
 

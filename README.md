@@ -4,12 +4,11 @@
 		<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlignY=40&fontSize=50&fontColor=ffffff" alt="Welcome Animation"/>
 	</a>
 </p>
-<br>
-
 <p align="center">
 	<a>
-  <img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Welcome+to+my+world!;Secure+Code+is+Beautiful+💻;Ethical+Hacking+in+Progress+💥;Stay+Curious,+Stay+Secure!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=60&lines=Access+Granted...;Initializing+Cyber+Ops+☠️;Tracking+Threats+%26+Vulnerabilities;Ahmed+Ghazal+--+System+Online" alt="Typing SVG"/>
 </a>
+
 
 
 

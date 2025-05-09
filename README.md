@@ -4,7 +4,6 @@
 		<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome!&fontAlignY=40&fontSize=50&fontColor=ffffff" alt="Welcome Animation"/>
 	</a>
 </p>
----
 
 ## 🚀 About Me  
 

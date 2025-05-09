@@ -6,8 +6,9 @@
 </p>
 <p align="center">
 <a>
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=28&pause=1100&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=60&lines=%3E_+Booting+Secure+Node...;%3E_+Decrypting+Knowledge+%E2%9A%A1;%3E_+Bypassing+Insecurity;%3E_+Ahmed+Ghazal+%40root" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=28&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=60&lines=%3E_+Accessing+mainframe...;%3E_+Initializing+Zero+Day+Protocols+%F0%9F%94%92;%3E_+Scanning+Threat+Vectors+%F0%9F%9A%A8;%3E_+Exploits+Neutralized+%E2%9C%94;%3E_+System+Secured+by+Ahmed+Ghazal+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
+
 
 
 

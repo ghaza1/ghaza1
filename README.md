@@ -8,8 +8,9 @@
 
 <p align="center">
 	<a>
-		<img src="https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=900&color=EEF772E2&center=true&vCenter=true&random=false&width=600&height=59&lines=Hello+There!+👋;I'm+Ahmed+Ghazal;Cybersecurity+Student+🛡️;Always+Learning+New+Things!" alt="Typing SVG"/>
-	</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+My+Profile!;I'm+a+Passionate+Learner;Focused+on+Cybersecurity+%26+Tech;Let's+Build+Secure+Systems+Together!" alt="Typing SVG" />
+</a>
+
 </p>
 
 ---

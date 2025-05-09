@@ -5,9 +5,10 @@
 	</a>
 </p>
 <p align="center">
-	<a>
-  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=30&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=60&lines=Access+Granted...;Initializing+Cyber+Ops+☠️;Tracking+Threats+%26+Vulnerabilities;Ahmed+Ghazal+--+System+Online" alt="Typing SVG"/>
+<a>
+  <img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=28&pause=1100&color=00FF41&background=000000&center=true&vCenter=true&width=750&height=60&lines=>_+Booting+Secure+Node...;>_+Decrypting+Knowledge+%E2%9A%A1;>_+Bypassing+Insecurity;>_+Ahmed+Ghazal+@root" alt="Typing SVG"/>
 </a>
+
 
 
 

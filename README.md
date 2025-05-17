@@ -5,6 +5,16 @@
 	</a>
 </p>
 
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ghaza1.ghaza1" />
+</p>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/921bf89a-1da4-49d1-81d9-280ad46159f5" width="580" />
+</div>
+
+
 ## 🚀 About Me  
 
 💡 **Cybersecurity Enthusiast | Ethical Hacker | Problem Solver**  
